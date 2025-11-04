@@ -1,4 +1,3 @@
-#3ariketa
 <!DOCTYPE html>
 <html lang="eu">
 <head>
